@@ -4,12 +4,19 @@
 What I can already do:
 
 Java Core,
+
 Maven,
+
 jUnit,
+
 Postman,
+
 Spring Boot,
+
 Hibernate,
+
 PostgreSql,
+
 Swagger
 
 <!---
